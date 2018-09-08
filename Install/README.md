@@ -10,12 +10,13 @@ Make sure you have all of the following installed on your computer:
 4. NodeJS for Windows ([install from here](https://nodejs.org/en/download/))
 4. Yarn Package Manager ([install from here](https://yarnpkg.com/latest.msi))
 5. Docker, plus Windows runtime ([install from here](https://docs.docker.com/toolbox/toolbox_install_windows/))
+6. Microsoft SQL Server ([install from here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads))
 
 ## How to install
 
 1. Close all instances of Visual Studio.
 2. Install all M# Visual Studio extensions [from here](https://marketplace.visualstudio.com/search?term=msharp&target=VS&category=All%20categories&vsVersion=&sortBy=Relevance)
-3. Open your Visual Studio as ADMIN (it's recommended that you make this the default)
+3. Open your Visual Studio as ADMINSTRATOR (It's recommended that you make this the default.)
 
 ## Create your first application
 
