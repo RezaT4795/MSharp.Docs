@@ -2,7 +2,7 @@
 
 In this tutorial you will learn:
 
-- Inheritence
+- Inheritance
 - Export to excel
 - Client-side filter
 - Index column
